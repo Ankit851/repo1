@@ -1,5 +1,3 @@
 Learning undoing today!!!
-<<<<<<< HEAD
 Let's write a new article on undoing for geeksforgeeks
-=======
->>>>>>> parent of ab2643d (Modified file1.txt)
+
